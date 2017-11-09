@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # Your login details.
-email = "vivekkumar.sinha@vvdntech.in"
-passwd = "Mypassword@1234"
+email = "<Email-id>"
+passwd = "<Password>"
 
 # Browser : Firefox.
 driver = webdriver.Chrome()
